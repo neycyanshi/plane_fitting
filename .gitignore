@@ -1,3 +1,9 @@
+# experiment dirs
+plane/
+newplane/
+newpalne/
+expm/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
