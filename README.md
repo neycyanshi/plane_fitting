@@ -1,4 +1,4 @@
-py-ransac
+plane fitting
 =========
 
-python implemetation of RANSAC algorithm with a line fitting example and a plane fitting example.
+RANSAC algorithm with a plane fitting example for raw depth map captured from depth sensors.
